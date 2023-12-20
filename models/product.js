@@ -1,3 +1,4 @@
+//This is the model for the product
 const mongoose = require("mongoose");
 
 const Product = new mongoose.Schema({
